@@ -1,0 +1,21 @@
+{
+	"id": "34b757e5-b93a-4d24-8e78-4682fe09f3d7",
+	"values": [
+		{
+			"key": "urlechoglobal",
+			"value": "https://postman-echo.com",
+			"type": "default",
+			"enabled": true
+		},
+		{
+			"key": "urlhttpbin",
+			"value": "http://httpbin.org/",
+			"type": "default",
+			"enabled": true
+		}
+	],
+	"name": "Globals",
+	"_postman_variable_scope": "globals",
+	"_postman_exported_at": "2022-08-19T11:18:47.859Z",
+	"_postman_exported_using": "Postman/9.28.3"
+}
